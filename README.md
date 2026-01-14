@@ -4,7 +4,7 @@
 </p> -->
 
 <!-- Hero text -->
-<h1 align="center">Hey 👋, <a href="[Abhay Tripathi ](https://www.linkedin.com/in/abhay-102323349/)"> this side. 👨‍💻</a></h1>
+<h1 align="center">Hey 👋, <a href="(https://www.linkedin.com/in/abhay-102323349/)"> Abhay Tripathi this side. 👨‍💻</a></h1>
 
 <!-- Typing text -->
 <p align="center">
